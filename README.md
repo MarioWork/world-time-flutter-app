@@ -1,16 +1,22 @@
-# world_time_app
+# World Time App
+Simple project that consumes the World Time APi and displays the time for the chosen location.
 
-A new Flutter project.
+## Web Api
+[WorldTime](http://worldtimeapi.org/)
 
-## Getting Started
+## Technologies
++ [Flutter](https://flutter.dev/?gclid=Cj0KCQiAq7COBhC2ARIsANsPATH9RZHhlW4RT0q7zeRfGTGhxcFi4Bf5uycD0d_w303RNW1BMgwFOe0aAp0eEALw_wcB&gclsrc=aw.ds)
++ [Android Studio](https://developer.android.com/studio?authuser=1)
++ [Dart](https://dart.dev/guides)
 
-This project is a starting point for a Flutter application.
+## UI Images
+![output-onlinepngtools](https://user-images.githubusercontent.com/47696178/147792300-58b4eeda-58e6-49f1-b8bf-b8ce749c0145.png)
+![output-onlinepngtools (1)](https://user-images.githubusercontent.com/47696178/147792302-edcdedf3-798a-404f-a367-cc9b980cf1bf.png)
+![output-onlinepngtools (2)](https://user-images.githubusercontent.com/47696178/147792303-36b5a011-3edb-4fbc-9a6b-5329ead3ec52.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Flutter Packages
++ [http](https://pub.dev/packages/http) => For Http requests
++ [intl](https://pub.dev/packages/intl) => For date conversions
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Collaborators
+[Mario Vieira](https://github.com/MarioWork)
